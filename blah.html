@@ -1,0 +1,127 @@
+
+<!DOCTYPE html><html lang="en"><head><title>Drift Boss Game Files - Crazy Games</title><link href="https://gameframe.crazygames.com/crazygames-gameframe-v1.bundle.js" rel="preload" as="script" /><link href="https://www.crazygames.com/game/drift-boss" rel="canonical" /><meta charset="UTF-8" /><meta name="robots" content="noindex, follow" /><meta name="description" content="The game files for Drift Boss, a free browser game on CrazyGames.com" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Accept-CH" content="DPR" /><meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui" /><style id="pacman-styles">/* purple background */
+body {
+  background-image: linear-gradient(290deg, #3b2b73 55%, #6f2f93, #6f2f93);
+  background-position: center;
+  text-align: center;
+}
+/* for positioning of pacman loader */
+body, html { height: 100%; }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+@keyframes rotate_preloadpacman_half_up {
+  0% {
+    transform: rotate(270deg); }
+  50% {
+    transform: rotate(360deg); }
+  100% {
+    transform: rotate(270deg); }
+}
+
+@keyframes rotate_preloadpacman_half_down {
+  0% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(90deg);
+  }
+}
+
+@keyframes preloadpacman-balls {
+  75% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translate(-100px, -6.25px);
+  }
+}
+
+.preloadpacman {
+  position: relative;
+}
+.preloadpacman > div:nth-child(2) {
+  animation: preloadpacman-balls 1s -0.99s infinite linear;
+}
+.preloadpacman > div:nth-child(3) {
+  animation: preloadpacman-balls 1s -0.66s infinite linear;
+}
+.preloadpacman > div:nth-child(4) {
+  animation: preloadpacman-balls 1s -0.33s infinite linear;
+}
+.preloadpacman > div:nth-child(5) {
+  animation: preloadpacman-balls 1s 0s infinite linear;
+}
+.preloadpacman > div:first-of-type {
+  width: 0px;
+  height: 0px;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #fff;
+  border-left: 25px solid #fff;
+  border-bottom: 25px solid #fff;
+  border-radius: 25px;
+  animation: rotate_preloadpacman_half_up 0.5s 0s infinite;
+  position: relative;
+  left: -30px;
+}
+.preloadpacman > div:nth-child(2) {
+  width: 0px;
+  height: 0px;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #fff;
+  border-left: 25px solid #fff;
+  border-bottom: 25px solid #fff;
+  border-radius: 25px;
+  animation: rotate_preloadpacman_half_down 0.5s 0s infinite;
+  margin-top: -50px;
+  position: relative;
+  left: -30px;
+}
+.preloadpacman > div:nth-child(3),
+.preloadpacman > div:nth-child(4),
+.preloadpacman > div:nth-child(5),
+.preloadpacman > div:nth-child(6) {
+  background-color: #fff;
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  margin: 2px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  transform: translate(0, -6.25px);
+  top: 25px;
+  left: 70px;
+}
+</style></head><body><div class="preloadpacman" id="pacman"><div></div><div></div><div></div><div></div><div></div></div><script type="text/javascript">function loadScript(url, callback) {
+  var head = document.head;
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = url;
+  script.async = true;
+  script.onreadystatechange = callback;
+  script.onload = callback;
+  head.appendChild(script);
+}
+var options = {"loader":"iframe","loaderOptions":{"url":"https://files.crazygames.com/drift-boss/3/index.html"},"author":"MarketJS","thumbnail":"https://images.crazygames.com/games/drift-boss/cover-1626884625264.png?auto=format,compress&q=75&cs=strip&w=360","gameName":"Drift Boss","gameHttps":true,"gameSlug":"drift-boss","gameId":"17776","gameStatus":"published","showAdOnExternal":"ALWAYS","showAdOnInternal":"DEFAULT","disableEmbedding":true,"dollarRate":0.8948401725967725,"upvotes":25117,"downvotes":4576,"releaseDate":"2019-12-17","locale":"en_US","controls":{"text":"<h3>Controls</h3>\n<p>Press the left mouse button or the space key to drift to the right.</p>"},"videoThumbnail":"https://videos.crazygames.com/drift-boss/2/drift-boss-180x111.mp4","video":{"original":"https://videos.crazygames.com/drift-boss/2/drift-boss.mp4","sizes":[{"width":180,"height":111,"location":"https://videos.crazygames.com/drift-boss/2/drift-boss-180x111.mp4"},{"width":360,"height":222,"location":"https://videos.crazygames.com/drift-boss/2/drift-boss-360x222.mp4"},{"width":540,"height":333,"location":"https://videos.crazygames.com/drift-boss/2/drift-boss-540x333.mp4"},{"width":720,"height":444,"location":"https://videos.crazygames.com/drift-boss/2/drift-boss-720x444.mp4"}]},"sandbox":true,"minTimeBetweenMidrollAdsInMs":180000,"minTimeBetweenRewardedAdsInMs":5000,"noMidrollAdInFirstMinutes":3,"noRewardedAdInFirstMinutes":0,"categoryEnSlug":"driving","tagsEnSlugs":["one-button","avoid","car","platform","drifting","power-up","collect","casual","html5"],"isKids":null,"fullscreen":"SUPPORTED","orientation":"BOTH","category":"Car","categoryLink":"https://www.crazygames.com/t/car","gameLink":"https://www.crazygames.com/game/drift-boss","alternativeGames":[{"category":"Arcade","gameSlug":"crazy-roll-3d","gameName":"Crazy Roll 3D","rating":9.2,"thumbnail":"https://images.crazygames.com/games/crazy-roll-3d/thumb-1551212403077.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/crazy-roll-3d/2/crazy-roll-3d-180x111.mp4","gameLink":"https://www.crazygames.com/game/crazy-roll-3d","loader":"5.6.x"},{"category":"Action","gameSlug":"hide-n-seek","gameName":"Hide N Seek","rating":9.1,"thumbnail":"https://images.crazygames.com/hide-n-seek/20220216140400/hide-n-seek-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/hide-n-seek/5/hide-n-seek-180x111.mp4","gameLink":"https://www.crazygames.com/game/hide-n-seek","loader":"5.6.x"},{"category":".io","gameSlug":"smash-karts","gameName":"Smash Karts","rating":9,"thumbnail":"https://images.crazygames.com/smash-karts/20201119155032/smash-karts-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/smash-karts/10/smash-karts-180x111.mp4","gameLink":"https://www.crazygames.com/game/smash-karts","loader":"iframe"},{"category":"Arcade","gameSlug":"airplane-survival","gameName":"Airplane Survival","rating":8.9,"thumbnail":"https://images.crazygames.com/games/airplane-survival/cover-1626260005437.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/airplane-survival/1/airplane-survival-thumbnail.mp4","gameLink":"https://www.crazygames.com/game/airplane-survival","loader":"iframe"},{"category":"Driving","gameSlug":"madalin-stunt-cars-2","gameName":"Madalin Stunt Cars 2","rating":9.1,"thumbnail":"https://images.crazygames.com/games/madalin-stunt-cars-2/cover-1614695327596.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/madalin-stunt-cars-2/5/madalin-stunt-cars-2-180x111.mp4","gameLink":"https://www.crazygames.com/game/madalin-stunt-cars-2","loader":"5.6.x"},{"category":".io","gameSlug":"shellshockersio","gameName":"Shell Shockers","rating":9.2,"thumbnail":"https://images.crazygames.com/shellshockersio/20211202050253/shellshockersio-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/shellshockersio/2/shellshockersio-180x111.mp4","gameLink":"https://www.crazygames.com/game/shellshockersio","loader":"iframe"},{"category":"Arcade","gameSlug":"swing-monkey","gameName":"Swing Monkey","rating":9.1,"thumbnail":"https://images.crazygames.com/games/swing-monkey/cover-1601370916112.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/swing-monkey/1/swing-monkey-thumbnail.mp4","gameLink":"https://www.crazygames.com/game/swing-monkey","loader":"iframe"},{"category":"Shooting","gameSlug":"buildnow-gg","gameName":"BuildNow GG","rating":9,"thumbnail":"https://images.crazygames.com/buildnow-gg/20210823164305/buildnow-gg-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/buildnow-gg/2/buildnow-gg-thumbnail.mp4","gameLink":"https://www.crazygames.com/game/buildnow-gg","loader":"unity2020"},{"category":"Arcade","gameSlug":"idle-mining-empire","gameName":"Idle Mining Empire","rating":9.1,"thumbnail":"https://images.crazygames.com/games/idle-mining-empire/cover-1630429766619.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/idle-mining-empire/2/idle-mining-empire-180x111.mp4","gameLink":"https://www.crazygames.com/game/idle-mining-empire","loader":"iframe"},{"category":"Adventure","gameSlug":"adventure-miner","gameName":"Adventure Miner","rating":9.4,"thumbnail":"https://images.crazygames.com/adventure-miner/20220224075454/adventure-miner-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/adventure-miner/1/adventure-miner-thumbnail.mp4","gameLink":"https://www.crazygames.com/game/adventure-miner","loader":"unity2020"}],"domainHasNoCMP":false};
+var SDK_READY = false;
+var GF_READY = false;
+var GF_LOAD_CALLED = false;
+loadScript("https://gameframe.crazygames.com/crazygames-gameframe-v1.bundle.js", function() {
+    Crazygames.load(options).then(function() {
+      var pacmanWrapper = document.getElementById('pacman');
+      var pacmanStyles = document.getElementById('pacman-styles');
+
+      if (pacmanWrapper && pacmanStyles) {
+        pacmanWrapper.remove();
+        pacmanStyles.remove();
+      }
+    });
+});</script></body></html>
