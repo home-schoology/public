@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="https://client.adopted.cf/4aa9fa2ab2be4441a67c33f92d26cadf/https://static.arcadespot.com/retroemulator.php?system=nds&game=2017%2F10%2FPokemon-Platinum-Version.zip" width="100%" height="300" style="border:none;">
+</iframe>
+</body>
+</html>
