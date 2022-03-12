@@ -18,3 +18,5 @@ https://grandcanyonshuttles.com/uploads/5/0/5/6/5056555/custom_themes/4621576361
 https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html
 
 https://fearcat.xyz/archive/g/vex(3-5)/
+
+https://osu.fearcat.xyz/index.html
