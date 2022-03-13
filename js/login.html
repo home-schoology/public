@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Login</h3>
+<input type="text" id="myUrn" placeholder="Username"><p></p>
+
+<input type="password" id="myPsw" placeholder="Password">
+<button onclick="myFunction()">Enter</button>
+
+
+
+<p id="demo"></p>
+<p id="demo2"></p>
+
+<script>
+function myFunction() {
+ var x = document.getElementById("myUrn").value;
+  document.getElementById("demo").innerHTML = "Username: " + x;
+  
+  var y = document.getElementById("myPsw").value;
+  document.getElementById("demo2").innerHTML = "Password: " + y;
+}
+</script>
+
+</body>
+</html>
