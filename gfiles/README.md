@@ -29,3 +29,6 @@ https://app-179065.games.s3.yandex.net/179065/ywchio7o7z5f0hhii9l038ifnsigl2jz/i
 
 
 https://app-175203.games.s3.yandex.net/175203/shz7bwnsc29p3jats8c7fovs4fqyuilo/game.html
+
+
+https://app-98580.games.s3.yandex.net/98580/y5tt2io3379vx0lb2fvjh9cikpp48o9r/index.html?app-id=98580&lang=en&utm_source=game_header_logo#app-id=98580&catalog-session-uid=catalog-2bee69a6-9837-5dd3-932e-9e396b89b40a-1648177978433-464f&rtx-reqid=510637430084319499&pos=%7B%22listType%22%3A%22categorized%22%2C%22tabCategory%22%3A%22common%22%7D&origin=https%3A%2F%2Fyandex.com&yandexapp=false&expBoxesCrypted=itBsAFsV8XGVd3lbbytNwjKHQeufMmowtE0-k3Gic7rasDwdJY5okg%2C%2C&experiments=%7B%22anti_adblock_production_cookie%22%3Atrue%2C%22invalidate_games_cache_from%22%3A9952209%2C%22adv_waterfall%22%3Atrue%2C%22adv-block%22%3A%7B%22fullscreen_portrait%22%3A%22R-A-1466359-1%22%2C%22fullscreen%22%3A%22R-A-1466359-3%22%2C%22fullscreen_landscape%22%3A%22R-A-1466359-2%22%7D%2C%22homeland_currency_basket%22%3Atrue%2C%22no_ads%22%3Atrue%2C%22gpt-adv-block%22%3A%7B%22fullscreen%22%3A%22%2F50008429%2FYandex.Games%2F522371%2FInstream%22%7D%2C%22ux_feedback_box_solution_enabled%22%3Atrue%7D&app-id=98580
