@@ -23,4 +23,9 @@ https://osu.fearcat.xyz/index.html
 
 https://advanced-channeler-01.sertakip.net/?t=tmm-cookieclicker
 
+# Can use in about:blank:
+
 https://app-179065.games.s3.yandex.net/179065/ywchio7o7z5f0hhii9l038ifnsigl2jz/index.html?lang=en#origin=https%3A%2F%2Fyandex.com&yandexapp=false&expBoxesCrypted=itBsAFsV8XGVd3lbbytNwjKHQeufMmowtE0-k3Gic7rasDwdJY5okg%2C%2C&experiments=%7B%22anti_adblock_production_cookie%22%3Atrue%2C%22invalidate_games_cache_from%22%3A9952209%2C%22adv_waterfall%22%3Atrue%2C%22adv-block%22%3A%7B%22fullscreen_portrait%22%3A%22R-A-1466359-1%22%2C%22fullscreen%22%3A%22R-A-1466359-3%22%2C%22fullscreen_landscape%22%3A%22R-A-1466359-2%22%7D%2C%22homeland_currency_basket%22%3Atrue%2C%22no_ads%22%3Atrue%2C%22gpt-adv-block%22%3A%7B%22fullscreen%22%3A%22%2F50008429%2FYandex.Games%2F522371%2FInstream%22%7D%2C%22ux_feedback_box_solution_enabled%22%3Atrue%7D&app-id=179065
+
+
+https://app-175203.games.s3.yandex.net/175203/shz7bwnsc29p3jats8c7fovs4fqyuilo/game.html
