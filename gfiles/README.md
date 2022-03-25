@@ -20,3 +20,5 @@ https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/3153008679
 https://fearcat.xyz/archive/g/vex(3-5)/
 
 https://osu.fearcat.xyz/index.html
+
+https://advanced-channeler-01.sertakip.net/?t=tmm-cookieclicker
